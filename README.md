@@ -9,8 +9,10 @@ o El navegador en http://localhost:8081 mostrando el login de
 phpMyAdmin.
 ![alt text](image-1.png)
 # 3. Agregar las capturas al informe del seminario (proyecto de grado) en la sección
-"Configuración del entorno de desarrollo"
-# Pagina http://localhost:8080/sintaxis-variables/
-![alt text](image-2.png)
-## codigo
-![alt text](image-4.png)
+# Actividad 1
+## Pagina http://localhost:8080/sintaxis-variables/
+![alt text](image-6.png)
+# Actividad 2
+![alt text](image-5.png)
+# Actividad 3
+![alt text](image-7.png)
