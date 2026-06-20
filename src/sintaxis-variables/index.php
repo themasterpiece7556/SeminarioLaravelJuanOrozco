@@ -12,5 +12,5 @@
 
   echo CONSTANTE."<br>";
 
-  echo "Estoy en el $semestre semestre de mi carrera y mi materia favorita es $materia<br>";
+  echo "Estoy en el $semestre semestre de mi carrera y mi materia favorita es $materia<br>";3.
 ?>

@@ -1,0 +1,19 @@
+
+<?php include 'logica.php'; ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formulario</title>
+</head>
+<body>
+    <h2>Registro Rápido</h2>
+    
+    <form method="POST" action="logica.php">
+        <lable>Nombre: <input type="text" name="nombre"></label><br><br>
+        <label>Email: <input type="email" name="email"></label><br><br>
+       <label>Telefono: <input type="number" name="telefono"></label><br><br> 
+        <button type="submit">Enviar</button>
+    </form>
+    <p><strong>Comparativa:</strong> Prueba cambiando <code> method="GET"</code> y observa la URL. </p>
+</body>
+</html>
