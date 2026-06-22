@@ -20,3 +20,7 @@ phpMyAdmin.
 ![alt text](image-8.png)
 # Actividad 5
 ![alt text](image-9.png)
+# Actividad 6
+![alt text](image-11.png)
+# Actividad 7
+![alt text](image-10.png)

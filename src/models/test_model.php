@@ -8,6 +8,6 @@ foreach ($users as $u){
   echo "{$u['nombre']} - {$u['email']} <br>";
 }
 
-//$model->create("Pedro Test", "pedro@test.com"); 
-//echo "Usuario creado!";
+$model->create("Pedro Test", "pedro@test.com"); 
+echo "Usuario creado!";
 ?>
